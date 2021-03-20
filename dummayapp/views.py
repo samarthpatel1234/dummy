@@ -11,5 +11,3 @@ class DummyViewSet(APIView):
     
         return HttpResponse("invalid")
         
-
-# Create your views here.
